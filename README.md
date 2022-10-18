@@ -16,11 +16,11 @@ User can choose one of queries defined next to textarea or write its own. App su
 
 ![3](https://user-images.githubusercontent.com/3989677/196513971-fb128b86-0f18-4f63-8fd7-cc6eb63a18d3.png)
 
-When user clicks on row, there is modal window, in order to present row's missing data (Products and Orders).
+When user clicks on row, there is modal window, in order to present missing data (Products and Orders).
 
 ![2](https://user-images.githubusercontent.com/3989677/196513970-4402f4c8-b614-416d-a78d-662623a68e13.png)
 
-web app is designed and implemented for desktop and mobile devices.
+Web app is designed and implemented for desktop and mobile devices.
 
 ![1](https://user-images.githubusercontent.com/3989677/196513940-f753564d-c4ce-41a1-8f67-d99606f84964.png)
 
