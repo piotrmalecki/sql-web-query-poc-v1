@@ -1,0 +1,50 @@
+
+.router-link {
+  @apply text-gray-600 hover:bg-gray-100 hover:text-black px-3 py-2 rounded-md text-lg font-bold dark:text-white hover:bg-gray-100/20;
+}
+.router-link.router-link-active {
+  @apply bg-primary text-black;
+}
+
+.tab-link {
+  @apply flex-1 text-gray-400 dark:text-gray-600 sm:hover:bg-gray-100 hover:text-black px-3 py-4 text-center rounded-md text-sm dark:text-white sm:hover:bg-gray-100/20;
+}
+.tab-link.router-link-active {
+  @apply text-black dark:text-primary;
+}
+
+.loader {
+  animation: spinAround 0.75s infinite linear;
+  border: 2px solid red;
+  border-radius: 100%;
+  border-right-color: transparent;
+  border-top-color: transparent;
+  content: '';
+  display: inline-block;
+  height: 2em;
+  width: 2em;
+  border-color: transparent transparent #fff #fff !important;
+}
+
+.loader.dark {
+  border-color: transparent transparent #000 #000 !important;
+}
+
+@keyframes spinAround {
+  from {
+    transform: rotate(0);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+
+.list-enter-active,
+.list-leave-active {
+  transition: transform 200ms ease, opacity 200ms ease;
+}
+.list-enter-from,
+.list-leave-to {
+  opacity: 0;
+  transform: translateY(50px);
+}
