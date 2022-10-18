@@ -16,16 +16,16 @@ User can choose one of queries defined next to textarea or write its own. App su
 
 ![3](https://user-images.githubusercontent.com/3989677/196513971-fb128b86-0f18-4f63-8fd7-cc6eb63a18d3.png)
 
-When user clicks on row, there is modal window, in order to present row's missing data (Products and Orders).
+When user clicks on row, there is modal window, in order to present missing data (Products and Orders).
 
 ![2](https://user-images.githubusercontent.com/3989677/196513970-4402f4c8-b614-416d-a78d-662623a68e13.png)
 
-web app is designed and implemented for desktop and mobile devices.
+Web app is designed and implemented for desktop and mobile devices.
 
 ![1](https://user-images.githubusercontent.com/3989677/196513940-f753564d-c4ce-41a1-8f67-d99606f84964.png)
 
 
 Lighthouse metrics:
 
-![4](https://user-images.githubusercontent.com/3989677/196513977-5c1d89ca-1bf0-444b-a1b9-b2fb05c7430f.png)
+![6](https://user-images.githubusercontent.com/3989677/196517810-152ac590-0b34-4e6e-a1b2-5f8bb79dd1e2.png)
 ![5](https://user-images.githubusercontent.com/3989677/196513968-bc69c40e-b4e8-43af-b706-65f023d3cc05.png)
