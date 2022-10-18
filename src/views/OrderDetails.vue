@@ -2,7 +2,7 @@
   <div class="py-4">
     <div class="space-y-12">
       <div class="space-y-5 sm:space-y-4 md:max-w-xl lg:max-w-3xl xl:max-w-none">
-        <h2 class="text-3xl font-extrabold dark:text-white tracking-tight sm:text-4xl">Orders Details</h2>
+        <h2 class="text-3xl font-extrabold dark:text-white tracking-tight sm:text-4xl">Order Details</h2>
       </div>
 
       <div class="relative min-h-24">
