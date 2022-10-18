@@ -27,5 +27,5 @@ Web app is designed and implemented for desktop and mobile devices.
 
 Lighthouse metrics:
 
-![4](https://user-images.githubusercontent.com/3989677/196513977-5c1d89ca-1bf0-444b-a1b9-b2fb05c7430f.png)
+![6](https://user-images.githubusercontent.com/3989677/196517810-152ac590-0b34-4e6e-a1b2-5f8bb79dd1e2.png)
 ![5](https://user-images.githubusercontent.com/3989677/196513968-bc69c40e-b4e8-43af-b706-65f023d3cc05.png)
