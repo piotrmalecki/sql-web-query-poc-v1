@@ -11,7 +11,7 @@
             ></FormInput>
         </div>
         <div>
-            <UIButton class="px-10" @click="mockQueryResult()" 
+            <UIButton class="px-10" @click="mockQueryResult()"  :disabled="!sqlquery"
             >Submit</UIButton
             >
         </div>

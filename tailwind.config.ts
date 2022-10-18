@@ -6,8 +6,8 @@ export default defineConfig({
   theme: {
     extend: {
       colors: {
-        primary: '#fecf24',
-        'primary-alt': '#ffd746',
+        primary: '#ffd300',
+        'primary-alt': '#ffe140',
         blue: '#a1c0de',
         purple: '#431587'
       }
